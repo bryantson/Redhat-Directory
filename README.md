@@ -11,4 +11,4 @@ You can then access the app here: http://localhost:8080/
 
 <h1>Powered by Openshift</h1>
 
-![Openshift Image](./src/main/resources/static/images/openshift.png)
+![Openshift Image](./src/main/resources/static/resources/images/openshift.png)
